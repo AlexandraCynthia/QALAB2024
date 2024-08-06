@@ -1,0 +1,1 @@
+git pull: Para extraer y descargar contenido desde un repositorio remoto y actualizar al instante el repositorio local para reflejar el contenido.
